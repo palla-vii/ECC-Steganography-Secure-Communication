@@ -9,14 +9,15 @@ ECC ensures **strong, lightweight public-key encryption**, while steganography h
 
 ECC-Steganography-Secure-Communication/
 │
-├── docs/
-│ ├── Project_Presentation.pdf # PPT uploaded as PDF
-│ ├── Project_Report.pdf #  final report
-│
 ├── notebooks/
-│ ├── ECC_Steganography.ipynb # Full working Colab notebook
+│   ├── ECC_Steganography.ipynb       # Your main Colab code
+│
+├── docs/
+│   ├── PPT/
+│   ├── Report/
 │
 └── README.md
+
 
 ---
 
