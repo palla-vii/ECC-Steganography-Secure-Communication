@@ -94,7 +94,7 @@ cd ECC-Steganography-Secure-Communication
 This project is released under the MIT License.
 
 👩‍💻 Contributors
-
+```
 Pallavi Sankar
 Nikitha Moncy
 Meghana Patil
