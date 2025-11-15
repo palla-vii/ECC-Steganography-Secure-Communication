@@ -1,5 +1,5 @@
 # 🔒 A Secure Elliptic Curve Based Public Key Steganography
-
+ 
 This project integrates **Elliptic Curve Cryptography (ECC)** with **Image Steganography** to create a dual-layer secure communication system.  
 ECC ensures **strong, lightweight public-key encryption**, while steganography hides the ciphertext inside digital images, making the message **invisible and confidential**.
 
