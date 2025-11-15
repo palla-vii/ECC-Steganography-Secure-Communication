@@ -7,17 +7,14 @@ ECC ensures **strong, lightweight public-key encryption**, while steganography h
 
 ## 📁 Repository Structure
 
-ECC-Steganography-Secure-Communication/
-│
-├── notebooks/
-│   ├── ECC_Steganography.ipynb       # Your main Colab code
-│
-├── docs/
-│   ├── PPT/
-│   ├── Report/
-│
+```
+ECC-Steganography-Secure-Communication
+├── ECC_Steganography.ipynb       # Your main Colab code
+├── docs
+│   ├── PPT
+│   ├── Report
 └── README.md
-
+```
 
 ---
 
