@@ -73,7 +73,7 @@ A detailed explanation is available inside the **PPT PDF**.
 ```bash
 git clone https://github.com/palla-vii/ECC-Steganography-Secure-Communication.git
 cd ECC-Steganography-Secure-Communication
-
+```
 🎯 Results
 
 -Ciphertext successfully hidden inside images without visible distortion
