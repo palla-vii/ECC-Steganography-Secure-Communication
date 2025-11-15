@@ -24,7 +24,7 @@ ECC-Steganography-Secure-Communication/
 
 Click below to run the complete project:
 
-[[Open In Colab](PASTE_YOUR_COLAB_LINK_HERE)
+[Open In Colab](PASTE_YOUR_COLAB_LINK_HERE)
 
 ---
 
