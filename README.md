@@ -1,5 +1,5 @@
 
-# A Secure Elliptic Curve Based Public Key Steganography 🔒
+# A Secure Elliptic Curve Based Public Key Steganography 
 
 This project integrates **Elliptic Curve Cryptography (ECC)** with **Image Steganography** to create a dual-layer secure communication system.
 ECC ensures **strong, lightweight public-key encryption**, while steganography hides the ciphertext inside digital images, making the message **invisible and confidential**.
@@ -129,7 +129,7 @@ notebooks/ECC_Steganography.ipynb
 
 ---
 
-## 🔭 Future Work
+## Future Work 🔭
 
 * Integrate **WaveFlow (Wavelet + Flow-based embedding)** for frequency-domain robustness
 * Add **full Elligator2 mapping** instead of placeholder version
