@@ -1,5 +1,5 @@
 
-# 🔒 A Secure Elliptic Curve Based Public Key Steganography
+# A Secure Elliptic Curve Based Public Key Steganography 🔒
 
 This project integrates **Elliptic Curve Cryptography (ECC)** with **Image Steganography** to create a dual-layer secure communication system.
 ECC ensures **strong, lightweight public-key encryption**, while steganography hides the ciphertext inside digital images, making the message **invisible and confidential**.
@@ -22,7 +22,7 @@ ECC-Steganography-Secure-Communication/
 
 ---
 
-## 🎥 Open Implementation (Google Colab)
+## Open Implementation (Google Colab)
 
 Click below to run the complete project:
 
@@ -30,7 +30,7 @@ Click below to run the complete project:
 
 ---
 
-## 🚀 Features
+## Features 🚀
 
 * **Elliptic Curve Cryptography (ECC)** for secure public-key encryption
 * **LSB image steganography** for embedding encrypted ciphertext into images
@@ -49,7 +49,7 @@ Click below to run the complete project:
 
 ---
 
-## 🧠 System Workflow
+## System Workflow
 
 1. **ECC Encryption**
 
@@ -72,7 +72,7 @@ Elligator-like encoding provides **plausible deniability** — ciphertext resemb
 
 ---
 
-## 🧩 Elligator / PECE Placeholder Explanation
+## Elligator / PECE Placeholder Explanation
 
 This repository uses the concept of **PECE (Pseudorandom Elliptic Curve Encoding)**, which is derived from **Elligator-style encodings**:
 
@@ -85,7 +85,7 @@ The full Elligator2 mapping is not implemented in this version (due to complexit
 
 ---
 
-## 💡 Technologies Used
+## Technologies Used
 
 * Python 3.10+
 * `cryptography` (ECC operations)
@@ -96,7 +96,7 @@ The full Elligator2 mapping is not implemented in this version (due to complexit
 
 ---
 
-## 🧪 Running the Project
+## Running the Project
 
 ### 1. Clone the repository
 
@@ -119,7 +119,7 @@ notebooks/ECC_Steganography.ipynb
 
 ---
 
-## 🎯 Results
+## Results🎯
 
 * Encrypted ciphertext successfully hidden without visual distortion
 * High quality stego images (high PSNR/SSIM)
@@ -140,7 +140,7 @@ notebooks/ECC_Steganography.ipynb
 
 ---
 
-## 📜 License
+## License
 
 This project is released under the **MIT License**.
 
